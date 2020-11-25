@@ -52,11 +52,12 @@ export default function Project() {
                     <div className="summary">
                         <h2>프로젝트 특징</h2>
                         <ul>
-                            <li>반응형 웹 (UI)</li>
-                            <li>React Hooks를 이용한 State 관리</li>
+                            <li>Grid layout의 Calendar 기능</li>
+                            <li>HighCharts를 이용한 Chart 기능</li>
+                            <li>Router, Redux를 이용한 데이터 관리</li>
                         </ul>
                         <h2>프로젝트 소감</h2>
-                        <p>- React를 이용하여 간단한 웹페이지를 만들어 보았습니다. <br/>기존의 HTML에서와 다른 React에서의 이벤트 처리를 경험할 수 있었고, React Hooks와 Rendering 과정을 자세히 공부해볼 수 있었던 기회가 되었습니다.</p>
+                        <p>- React를 이용하여 가계부 웹페이지를 만들어 보았습니다. <br/>Router을 이용하여 url관리를 하였고, Redux으로 전체 데이터를 관리를 하였습니다. 데이터 가시성을 위해 HighCharts으로 Chart 기능을 구현하였습니다.</p>
                     </div>
                 </div>
             </div>

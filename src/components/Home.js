@@ -6,7 +6,6 @@ import leave4 from './image/leaves4.png';
 import leaves from './image/leaves5.png';
 
 export default function Home() {
-    console.log("home")
     return (
         <section className="home">
             <div className="banner">
