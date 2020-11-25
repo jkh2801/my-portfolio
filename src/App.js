@@ -16,7 +16,7 @@ export default function App() {
   }) 
   return  (
     <div className="App">
-      <Router>
+      <Router basename="my-portfolio">
         <Nav heights={heights}/>
         <Home/>
         <About/>
